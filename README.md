@@ -1,1 +1,1 @@
-View the Javadoc for our Android library [here](http://googlesamples.github.io/identity-toolkit-android/).
+View the Javadoc for the Android library [here](http://ardock.github.io/identity-toolkit-android/).
